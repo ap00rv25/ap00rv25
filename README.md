@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ap00rv25" alt="ap00rv25" /></a> </p>
 
-- 🔭 I’m currently working on **Real Estate Project**
+- 🔭 I’m currently working in **Accenture as an associate**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Salesforce**
 
 - 📫 How to reach me **apoorvsrivastava2001@gmail.com**
 
